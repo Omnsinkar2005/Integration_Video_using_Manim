@@ -1,1 +1,1 @@
-# Integration_Video_using_Manim
+# Integration Video using Manim
